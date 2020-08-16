@@ -8,11 +8,5 @@
     "repository": "kernel_motorola_sanders",
     "target_path": "kernel/motorola/msm8953",
    "branch": "xq"
-  },
-  {
-   "remote":       "github",
-   "repository":   "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-   "branch": "lineage-17.1"
   }
 ]
