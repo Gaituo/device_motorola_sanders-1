@@ -726,6 +726,8 @@ vendor/lib/libsensor_reg.so
 vendor/lib/libsensor1.so
 vendor/lib/libsensorhubservice_jni.so
 vendor/lib/libsettings.so
+vendor/lib/libspl.so
+vendor/lib64/libspl.so
 vendor/lib/libslimclient.so
 vendor/lib/libsmemlog.so
 vendor/lib/libSonyDefocus.so
